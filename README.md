@@ -13,9 +13,6 @@ Welcome to my portfolio website! This project showcases my skills in web develop
 
 I've added a theme customization feature using JavaScript, allowing you to personalize the website's appearance. You can change the color scheme, fonts, and other visual elements to your liking.
 
-## Demo
-
-You can check out the live demo of the portfolio website [here](#).
 
 ## Screenshots
 ![Screenshot (23)](https://github.com/Jivitesh-kanna/Codsoft-task-1/assets/93578467/306540be-9698-41ed-9217-2270615f11fe)
