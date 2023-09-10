@@ -18,9 +18,10 @@ I've added a theme customization feature using JavaScript, allowing you to perso
 You can check out the live demo of the portfolio website [here](#).
 
 ## Screenshots
-![Uploading Screenshot (23).pn![Screenshot (24)](https://github.com/Jivitesh-kanna/Codsoft-task-1/assets/93578467/0a1c478b-dd24-4b7c-b200-2942f8894c3b)
-g…]()
-![Screenshot (25)](https://github.com/Jivitesh-kanna/Codsoft-task-1/assets/93578467/c60bc9c4-f2df-41af-b2ba-4dbdc01704e2)
+![Screenshot (23)](https://github.com/Jivitesh-kanna/Codsoft-task-1/assets/93578467/306540be-9698-41ed-9217-2270615f11fe)
+![Screenshot (24)](https://github.com/Jivitesh-kanna/Codsoft-task-1/assets/93578467/73431ac1-d4a6-4b0a-b34c-90b44312a337)
+
+![Screenshot (25)](https://github.com/Jivitesh-kanna/Codsoft-task-1/assets/93578467/5a4a5bc3-d153-42db-8c0b-7757d396afeb)
 
 
 ## Installation
