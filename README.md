@@ -43,7 +43,7 @@ Feel free to customize this portfolio website to make it your own:
 
 ## Contact
 
-If you have any questions or would like to connect, you can reach me at [your@email.com](mailto:your@email.com).
+If you have any questions or would like to connect, you can reach me at jiviteshkanan2003@gmail.com
 
 ---
 
